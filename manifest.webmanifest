@@ -1,7 +1,7 @@
 {
   "name": "VITAPARTNER AI",
   "short_name": "VitaPartner",
-  "description": "Tu coach de nutrición con IA: plan, registro diario, análisis médicos y menú con lo que tenés en casa",
+  "description": "Tu cuerpo es una máquina: ponela a punto con IA. Alimentación, entrenamiento, hidratación y salud en un solo lugar",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

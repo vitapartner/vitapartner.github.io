@@ -1,6 +1,6 @@
 // Service worker: cachea la "cáscara" para instalar y abrir sin conexión.
 // Las llamadas a Claude (api.anthropic.com) y otros orígenes van siempre a la red.
-const CACHE = 'vitapartner-v46';
+const CACHE = 'vitapartner-v47';
 const SHELL = [
   './',
   './index.html',
